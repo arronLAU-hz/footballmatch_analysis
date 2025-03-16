@@ -8,7 +8,7 @@ with mss.mss() as sct:
 
     # "top": 100
     # "left": 100
-    # "width": 80
+    # "width": 800
     # "height": 600
 
     while "Screen capturing":
