@@ -4,11 +4,11 @@ import numpy as np
 
 with mss.mss() as sct:
 
-    monitor = {"top": 100, "left": 100, "width": 800, "height": 600}
+    monitor = {"top": 100, "left": 100, "width": 900, "height": 600}
 
     # "top": 100
     # "left": 100
-    # "width": 800
+    # "width": 900
     # "height": 600
 
     while "Screen capturing":
